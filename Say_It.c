@@ -6,5 +6,6 @@ int main() {
         printf("%d. ABCD\n",i);
         printf("%d. EFG\n", i);
     }
+    printf("PULL");
     return 0;
 }
