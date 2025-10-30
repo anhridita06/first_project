@@ -1,5 +1,10 @@
 1. ABCD
+1. EFG
 2. ABCD
+2. EFG
 3. ABCD
+3. EFG
 4. ABCD
+4. EFG
 5. ABCD
+5. EFG
