@@ -7,5 +7,6 @@ int main() {
         printf("%d. EFG\n", i);
     }
     printf("PULL");
+    printf("PULL");
     return 0;
 }
